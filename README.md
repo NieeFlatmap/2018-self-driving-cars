@@ -16,5 +16,5 @@ Unfortunately only participants can measure the scores. To run the solution on a
 data set path.
 
 ### What is the algorithm's complexity?
-We estimate it to be around O(T*V*R), where T how much time do we operate in, C is number of available cars and R is number of rides to schedule.
+We estimate it to be around O(T\*V\*R), where T how much time do we operate in, V is number of available vehicles and R is number of rides to schedule.
 No precise answer though, we are happy it is not exponential :sweat_smile:
